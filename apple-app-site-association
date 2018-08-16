@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "T3Z52BWGNU.com.megahub.wellink”,
+                "paths": ["/deeplink","/wwdc/news/","*"]
+            },
+                "appID": "T3Z52BWGNU.com.megahub.wellink",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
